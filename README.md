@@ -12,7 +12,13 @@ Comprobar experimentalmente el Análisis de Nodos.
 
 **Objetivo General:**
 
+Realizar el circuito indicado y medir los voltajes en los nodos formados.
+
 **Objetivo Especifico:**
+
+*Utilizar el método de la corriente en ramas para determinar cantidades desconocidas en un circuito
+
+*Utilizar el análisis de nodos para determinar cantidades desconocidas en un circuito
 
 **3.2. MARCO TEORICO**
 
@@ -44,7 +50,7 @@ Comprobar experimentalmente el Análisis de Nodos.
 
 ![image](https://user-images.githubusercontent.com/105680588/172725895-6dbe6db9-0773-4a6d-9338-4651453eb04b.png)
 
-**Circuito Fisico *
+**Circuito Fisico **
 
 ![image](https://user-images.githubusercontent.com/105680588/172751442-c441a13c-c816-4c28-aa6d-b6c9d9eebfe6.png)
 
@@ -62,7 +68,13 @@ Comprobar experimentalmente el Análisis de Nodos.
 
 ![image](https://user-images.githubusercontent.com/105680588/172742366-9c4df7cf-5bb1-4875-af6d-81d3fe675af5.png)
 
+**Video**
+
+https://www.youtube.com/watch?v=MRb0bZo3vWU
+
 **Conclusiones**
+
+La potencia aparente es mayor a la potencia real mediante la medición de los nodos pudimos determinar los voltajes obtenidos  en cada nodo, encontrar los  voltajes que pueden encontrarse en el nodo y encontrar la corriente que pase  por las impedancias.
 
 **Bibliografía**
 
